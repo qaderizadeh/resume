@@ -1,52 +1,64 @@
 # Ramadan Qaderizadeh
-
+**Senior Full-Stack Developer | Blockchain & Fintech Specialist**  
 **Email:** 𝗿𝗮𝗺𝗮𝗱𝗮𝗻𝟴𝟲@𝗴𝗺𝗮𝗶𝗹.𝗰𝗼𝗺 | **Phone:** +98-XXX-XXX-XXXX | **GitHub:** [github.com/qaderizadeh](https://github.com/qaderizadeh) | **LinkedIn:** [linkedin.com/in/qaderizadeh](https://linkedin.com/in/qaderizadeh)
 
----
+## Professional Summary
+Proven full-stack engineer with 6+ years in fintech, blockchain, IoT, and automation. Delivered 30+ freelance projects using React Native, Docker, Playwright, MQTT, and AWS. Expert in DeFi, industrial IoT, trading bots, and scalable web3 systems.
 
-## 🛠 Skills
+## Skills
+- **Languages**: JavaScript/TypeScript, Python, Solidity, SQL, MQL4/5  
+- **Frameworks/Tools**: React/React Native, Node.js/Express, Hardhat, Metamask, Docker, GitHub Actions, Playwright, Tkinter/PyQt5, MQTT, WebSockets/REST APIs  
+- **Databases/Cloud**: PostgreSQL, MongoDB, AWS (EC2/S3/Lambda), Cloudflare Workers/Tunnels  
 
-**Languages:** JavaScript, TypeScript, Python, Solidity, SQL, HTML/CSS, MQL4/MQL5  
-**Technologies & Tools:** AWS (EC2, S3), Cloudflare (Workers, Tunnels), Docker, GitHub Actions, PostgreSQL, MongoDB, Redis, WebSockets, REST APIs, Express.js, React, React Native, Node.js, Solidity, Hardhat, Metamask
+## Professional Experience
+### Senior Full-Stack Developer  
+**Araman Electronic Development Parseh Co.** – Tehran, Iran  
+*Mar 2020 – Oct 2021*  
+- Designed and deployed secure backend APIs (Node.js/Express + MongoDB) for financial transaction systems; supported 50K+ members and 5K+ POS retailers with facilities and loans, ensuring reliable data handling.  
+- Built responsive React Native dashboards for real-time analytics; integrated WebSocket feeds for live market data and reduced latency by 40%.  
+- Conducted manual testing and deployment on AWS for a 5-dev team, maintaining high quality and rapid iteration.  
+- Implemented JWT auth, audit logging, and encryption to meet financial compliance standards.  
 
----
+### Freelance Software Developer  
+*Dec 2019 – Present* (Concurrent with Araman)  
+- Engineered blockchain wallets, ERC-20 tokens, and NFT marketplaces using Solidity + Hardhat; deployed on AWS with Metamask integration for 10K+ users.  
+- Developed industrial IoT monitoring system (2023) using MQTT + WebSocket to control and monitor instruments in real time via Node.js backend and React dashboard.  
+- Built trading automation tools: MT5 Expert Advisors (MQL5), Tkinter/PyQt5 GUIs for forex bots, and Playwright scrapers for social/crypto data.  
+- Developed cross-platform desktop applications with Docker for streamlined deployment and remote access.  
 
-## 💼 Work Experience
+### Early Career: Technical & Document Control Roles (Oil/Gas)  
+*2011 – 2020*  
+- Automated data entry and workflows using VBA in Excel, SQL Server queries, and tools like JITbit Macro Recorder; digitized 2K+ project records and improved retrieval speed by 60%.  
 
-### Freelance — Software Developer (Dec 2019 – Present)  
-- Built blockchain wallets, tokens, NFTs, and full-stack NFT marketplaces with smart contract integration.  
-- Designed scalable backends and APIs, and developed mobile apps using React Native for cross-platform deployment.  
-- Managed DevOps pipelines and cloud infrastructure with AWS, Docker, and CI/CD tools for production-grade systems.  
-**Technologies:** Node.js, MongoDB Atlas, Solidity, React Native, AWS (EC2, S3, Lambda), Docker, GitHub Actions, Express, REST APIs
+## Projects
+- **Xbitplay** – *Jun 2022 – Oct 2024*  
+  Full-stack crypto wallet + investment game platform. Built real-time trading engine with WebSockets, market simulation, and Solidity contracts.  
+  [GitHub] | Tech: React, Node.js, PostgreSQL, AWS, Solidity  
 
-### SAED, Ilam (Mehran) — Document Controller (Oct 2014 – Sep 2020)  
-- Managed technical documentation and workflow tracking for engineering and operations teams.  
-- Designed Excel and Access-based tools to streamline task management, reporting, and document version control.  
-- Digitized and organized project records to improve accessibility and reduce manual overhead.  
-**Technologies:** Microsoft Excel, Access, Windows, file systems, documentation standards
+- **Volex Wallet Backend** – *Oct 2021 – May 2022*  
+  Secure crypto transaction system (project suspended). Optimized high-volume trade processing with PostgreSQL and REST APIs.  
+  [GitHub] | Tech: Node.js, PostgreSQL, Metamask  
 
----
+- **Capila** – *Aug 2020 – Sep 2021*  
+  Website + mobile app with React Native frontend and Node.js backend. Integrated Shaparak payment gateway and passed compliance tests.  
+  [GitHub] | Tech: React Native, Node.js, PostgreSQL  
 
-## 🎓 Education
+- **CapilaPay** – *Apr 2020 – Sep 2021*  
+  Payment facilitator app with test environment for Shaparak certification. Built API endpoints and secure transaction flow.  
+  [GitHub] | Tech: Node.js, REST APIs, Security  
 
-**ACECR Kermanshah Higher Education Institute**  
-**B.S. in Software Engineering  (2008 – 2010)**  
-**Relevant Coursework:** Object-Oriented Programming, Databases, Data Structures & Algorithms, Operating Systems, Computer Networks, Software Design, Web Development
+- **Rahvaan** – *Jan 2021 – Feb 2021*  
+  Cross-platform mobile app with React Native frontend and Node.js backend.  
+  *Project suspended due to rebranding to Moeid (active legal services platform: moeid.law)*  
+  [GitHub] | Tech: React Native, Node.js, Mobile  
 
-**University of Zabol**  
-**Associate Degree in Software Engineering (2006 – 2007)**  
-**Relevant Coursework:** Programming Fundamentals, Database Concepts, Web Technologies, Computer Architecture
+- **Industrial IoT Monitor (MQTT)** – *2023*  
+  Real-time monitoring and control of industrial instruments using MQTT broker, Node.js backend, and React dashboard with WebSocket live updates.  
+  Tech: Node.js, React, MQTT, WebSocket, Docker  
 
----
+## Education
+- **M.S. Coursework in Computer Software Engineering**, ACECR Kermanshah (2018–2020) – Completed all exams  
+- **B.S. Computer Software Engineering**, ACECR Kermanshah (2008–2010)  
+- **A.S. Computer Software Engineering**, University of Zabol (2006–2008)  
 
-## 🧪 Project Work
-
-- **Xbitplay (2022):** Developed a crypto wallet system and maintained the backend infrastructure.  
-  Added a new game module called *Investment*, and designed a structured market simulation including cryptocurrencies, exchanges, and a built-in social community.  
-  Defined naming conventions, data models, and UI logic to support scalable integration across modules.  
-  _Tech:_ Node.js, PostgreSQL, React, REST APIs, WebSockets, Solidity
-
-- **Volex (2021):** Maintained and supported a crypto wallet system, ensuring secure transaction handling and backend reliability.  
-  Contributed to wallet logic, user account management, and system stability during active development.  
-  _Note:_ Project is no longer active.  
-  _Tech:_ Node.js, PostgreSQL, REST APIs, WebSockets
+*Open to fintech, IoT, & web3 collaborations*

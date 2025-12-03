@@ -11,20 +11,20 @@ Proven full-stack engineer with 6+ years in fintech, blockchain, IoT, and automa
 - **Databases/Cloud**: PostgreSQL, MongoDB, AWS (EC2/S3/Lambda), Cloudflare Workers/Tunnels  
 
 ## Professional Experience
-### Senior Full-Stack Developer  
-**Araman Electronic Development Parseh Co.** – Tehran, Iran  
-*Mar 2020 – Oct 2021*  
-- Designed and deployed secure backend APIs (Node.js/Express + MongoDB) for financial transaction systems; supported 50K+ members and 5K+ POS retailers with facilities and loans, ensuring reliable data handling.  
-- Built responsive React Native dashboards for real-time analytics; integrated WebSocket feeds for live market data and reduced latency by 40%.  
-- Conducted manual testing and deployment on AWS for a 5-dev team, maintaining high quality and rapid iteration.  
-- Implemented JWT auth, audit logging, and encryption to meet financial compliance standards.  
-
 ### Freelance Software Developer  
-*Dec 2019 – Present* (Concurrent with Araman)  
+*Dec 2019 – Present*   
 - Engineered blockchain wallets, ERC-20 tokens, and NFT marketplaces using Solidity + Hardhat; deployed on AWS with Metamask integration for 10K+ users.  
 - Developed industrial IoT monitoring system (2023) using MQTT + WebSocket to control and monitor instruments in real time via Node.js backend and React dashboard.  
 - Built trading automation tools: MT5 Expert Advisors (MQL5), Tkinter/PyQt5 GUIs for forex bots, and Playwright scrapers for social/crypto data.  
 - Developed cross-platform desktop applications with Docker for streamlined deployment and remote access.  
+### Senior Full-Stack Developer  
+
+**Araman Electronic Development Parseh Co.** – Tehran, Iran  
+*Mar 2020 – Oct 2021*  
+- Designed and deployed secure backend APIs (Node.js/Express + MongoDB) for financial transaction systems; supported 50K+ members and 5K+ POS retailers with facilities and loans, ensuring reliable data handling.  
+- Built responsive React Native dashboards for real-time analytics; integrated WebSocket feeds for live market data and reduced latency by 40%.  
+- Conducted manual testing and maintaining high quality and rapid iteration.  
+- Implemented JWT auth, audit logging, and encryption to meet financial compliance standards.  
 
 ### Early Career: Technical & Document Control Roles (Oil/Gas)  
 *2011 – 2020*  

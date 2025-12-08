@@ -22,8 +22,8 @@ Proven full-stack engineer with 6+ years in fintech, blockchain, IoT, and automa
 **Araman Electronic Development Parseh Co.** – Tehran, Iran  
 *Mar 2020 – Oct 2021*  
 - Designed and deployed secure backend APIs (Node.js/Express + MongoDB) for financial transaction systems; supported 50K+ members and 5K+ POS retailers with facilities and loans, ensuring reliable data handling.  
-- Built responsive React Native dashboards for real-time analytics; integrated WebSocket feeds for live market data and reduced latency by 40%.  
-- Conducted manual testing and maintaining high quality and rapid iteration.  
+- Built a responsive React Native application for our platform, ensuring smooth user experience across devices.  
+- Conducted manual testing and maintained the app with regular self-updates.
 - Implemented JWT auth, audit logging, and encryption to meet financial compliance standards.  
 
 ### Early Career: Technical & Document Control Roles (Oil/Gas)  
